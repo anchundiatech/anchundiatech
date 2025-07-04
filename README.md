@@ -40,7 +40,7 @@
 
 | Proyecto | Descripción | Demo |
 |----------|--------------|------|
-| **SkillLink** | Plataforma de mentorías y cursos colaborativos desarrollada en hackathon | [Repositorio](https://github.com/anchundiatech/Skilllink-Alumnithon) |
+| **SkillLink** | Plataforma de mentorías y cursos colaborativos desarrollada en hackathon | [Repositorio](https://github.com/mandalorians-team/Skilllink-Alumnithon) |
 | **Portfolio personal** | En construcción | _Próximamente_ |
 
 ---
