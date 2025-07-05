@@ -16,7 +16,7 @@
 - 🙋‍♂️ `My name is`: **Alejandro**
 - 💬 `Pronouns`: **He/Him**
 - 📍 `From`: **Ecuador 🇪🇨**
-- ⚡ `I'm`: **22 years old**,
+- ⚡ `I'm`: **23 years old**,
 - 🧠 `Currently Learning`: **TypeScript**
 - ⚒️ `Stack`: **React, TailwindCSS, Vite**
 - ☕ `Loves`: **Café y videojuegos** 🎮
