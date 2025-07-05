@@ -11,18 +11,18 @@
  <img align='right' src="https://github.com/user-attachments/assets/58971c58-2628-45c3-9b7e-cebdd0742c47" width="25%" alt="Alejandro Avatar" />
 
 
-{
 
-* 🙋‍♂️ `My name is`: **Alejandro**
-* 💬 `Pronouns`: **He/Him**
-* 📍 `From`: **Ecuador 🇪🇨**
-* ⚡ `I'm`: **22 years old**,
-* 🧠 `Currently Learning`: **TypeScript**
-* ⚒️ `Stack`: **React, TailwindCSS, Vite**
-* ☕ `Loves`: **Café y videojuegos** 🎮
+
+- 🙋‍♂️ `My name is`: **Alejandro**
+- 💬 `Pronouns`: **He/Him**
+- 📍 `From`: **Ecuador 🇪🇨**
+- ⚡ `I'm`: **22 years old**,
+- 🧠 `Currently Learning`: **TypeScript**
+- ⚒️ `Stack`: **React, TailwindCSS, Vite**
+- ☕ `Loves`: **Café y videojuegos** 🎮
 
  
-}
+
 
 
 <br/>
