@@ -14,7 +14,7 @@
 {
 
 * 🙋‍♂️ `My name is`: **Alejandro**
-* 💬 `Pronouns`: He/Him**
+* 💬 `Pronouns`: **He/Him**
 * 📍 `From`: **Ecuador 🇪🇨**
 * ⚡ `I'm`: **22 years old**,
 * 🧠 `Currently Learning`: **TypeScript**
