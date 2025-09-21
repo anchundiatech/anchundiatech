@@ -43,8 +43,8 @@
 
 | Nombre | Descripción | Tecnologías |Demo |
 |--------|-------------|-------------|------------ |
-| **Skilllink** | Plataforma educativa con paneles por rol, autenticación y estadísticas, donde colabore con rol de frontend developer. | React, TailwindCSS, Vite| [Skill-Link]([https://github.com/mandalorians-team/Skilllink-Alumnithon.git](https://skilllink-alumnithon-nine.vercel.app/))
-| **E-Learning-Platform** | Proyecto desarrollado para el Hackathon NoCountry - Oracle Next Education (ONE)  | React, TailwindCSS, Axio| [Edu Platform](https://edu-platform-omega-ten.vercel.app/))
+| **Skilllink** | Plataforma educativa con paneles por rol, autenticación y estadísticas, donde colabore con rol de frontend developer. | React, TailwindCSS, Vite| [Skill-Link](https://skilllink-alumnithon-nine.vercel.app/)
+| **E-Learning-Platform** | Proyecto desarrollado para el Hackathon NoCountry - Oracle Next Education (ONE)  | React, TailwindCSS, Axio| [Edu Platform](https://edu-platform-omega-ten.vercel.app/)
 
 ---
 
