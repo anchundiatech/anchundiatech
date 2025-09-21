@@ -43,7 +43,7 @@
 
 | Nombre | Descripción | Tecnologías | Repositorio |
 |--------|-------------|-------------|------------ |
-| **Skilllink** | Plataforma educativa con paneles por rol, autenticación y estadísticas, donde colabore con rol de frontend developer. | React, TailwindCSS, Vite|
+| **Skilllink** | Plataforma educativa con paneles por rol, autenticación y estadísticas, donde colabore con rol de frontend developer. | React, TailwindCSS, Vite| [Skill-Link](https://github.com/mandalorians-team/Skilllink-Alumnithon.git)
 | **E-Learning-Platform** | Proyecto desarrollado para el Hackathon NoCountry - Oracle Next Education (ONE)  | React, TailwindCSS, Axio| [Edu Platform](https://github.com/Juan-Valenzuela3/E-Learning-Platform.git)
 
 ---
