@@ -41,19 +41,18 @@
 
 <h2 align="center">🚀 Projects<h2/>
 
-| Nombre | Descripción | Tecnologías |
-|--------|-------------|-------------|
-| **Skilllink** | Plataforma educativa con paneles por rol, autenticación y estadísticas. | React, TailwindCSS, Vite, Spring Boot |
-| **Banco Amanecer** | Proyecto bancario con autenticación JWT y gestión de usuarios y roles. | React, TailwindCSS, JWT |
+| Nombre | Descripción | Tecnologías | Repositorio |
+|--------|-------------|-------------|------------ |
+| **Skilllink** | Plataforma educativa con paneles por rol, autenticación y estadísticas, donde colabore con rol de frontend developer. | React, TailwindCSS, Vite|
+| **E-Learning-Platform** | Proyecto desarrollado para el Hackathon NoCountry - Oracle Next Education (ONE)  | React, TailwindCSS, Axio| [Edu Platform](https://github.com/Juan-Valenzuela3/E-Learning-Platform.git)
 
 ---
 
-<h2 align="center" >🧠 Skills </h2>
+<h1 align="center">🧠 Skills </h1>
 
- <h4 align="center">💻 Lenguajes</h4>
+ ## 💻 Lenguajes
  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
@@ -61,7 +60,6 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite)
 
 ### 🔧 Herramientas
@@ -74,7 +72,7 @@
 
 ## 📫 Contact
 
-- 📧 **Email:** alejandroanchundia.dev@gmail.com  
+- 📧 **Email:** alejandroanchundiayela@gmail.com  
 - 📘 [Instagram](https://www.instagram.com/anchundiatech/)
 
 ---
