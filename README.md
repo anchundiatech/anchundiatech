@@ -19,9 +19,9 @@
 
 **Desarrollador Frontend** • **Ecuador** 🇪🇨 • **Alma de Gamer** 🎮
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anchundiatech/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alejandro-anchundia/)
 [![Instagram](https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anchundiatech/)
-[![Email](https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandroanchundiayela@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armandooanchundiayela@gmail.com)
 
 </div>
 
@@ -152,9 +152,9 @@ Sistema completo con roles, autenticación y panel estadístico. Desarrollé la 
 
 **¿Tienes un proyecto en mente? ¡Hagamos equipo!**
 
-[![Email](https://img.shields.io/badge/📧_Email-alejandroanchundiayela@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandroanchundiayela@gmail.com)
+[![Email](https://img.shields.io/badge/📧_Email-alejandroanchundiayela@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armandoanchundiayela@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Alejandro_Anchundia-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anchundiatech/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Alejandro_Anchundia-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alejandro-anchundia/)
 
 [![Instagram](https://img.shields.io/badge/📸_Instagram-@anchundiatech-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anchundiatech/)
 
