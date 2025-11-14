@@ -1,7 +1,4 @@
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=anchundiatech&color=FF6B9D&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="Vistas del perfil" />
 
----
 
 <div align="center">
 
@@ -16,17 +13,7 @@
 
 </div>
 
----
 
-# ✨ MODO KONAMI ACTIVADO ✨
-
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="Código Konami" />
-
-```
-↑ ↑ ↓ ↓ ← → ← → B A
-```
-
-</div>
 
 
 
