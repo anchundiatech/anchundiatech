@@ -4,7 +4,7 @@
 
 ## 👾 ALEJANDRO ANCHUNDIA 👾
 
-**Desarrollador Frontend React** • **2+ años de experiencia** • **Ecuador 🇪🇨**  
+**Desarrollador Frontend React** • **1+ años de experiencia** • **Ecuador 🇪🇨**  
 🎮 *Gamer de corazón* | 💻 *Código limpio* | 🚀 *Aprendizaje continuo*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alejandro-anchundia/)
@@ -24,7 +24,7 @@ const desarrollador = {
   nombre: "Alejandro Anchundia",
   ubicación: "Ecuador 🇪🇨",
   rol: "Desarrollador Frontend React",
-  experiencia: "2 años construyendo interfaces web modernas y accesibles",
+  experiencia: "1+ años construyendo interfaces web modernas y accesibles",
   aprendiendo: ["TypeScript", "Next.js"],
   stack: ["React", "TailwindCSS", "Vite", "JavaScript"],
   intereses: ["☕ Café", "🎮 Videojuegos", "🎨 Diseño UI/UX"],
