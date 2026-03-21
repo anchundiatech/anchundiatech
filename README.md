@@ -45,9 +45,8 @@ const desarrollador = {
 <img src="https://github-readme-stats.vercel.app/api?username=anchundiatech&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FFD700&text_color=FFF" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anchundiatech&theme=radical&hide_border=true&background=0D1117&stroke=FF6B9D&ring=FFD700&fire=FFD700&currStreakLabel=FFF" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchundiatech&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFF" width="48%" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=anchundiatech&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
+
 
 </div>
 
