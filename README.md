@@ -1,8 +1,12 @@
 
 
 <div align="center">
+  
+
 
 ## 👾 ALEJANDRO ANCHUNDIA 👾
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=anchundiatech)
 
 **Desarrollador Frontend React** • **1+ años de experiencia** • **Ecuador 🇪🇨**  
 🎮 *Gamer de corazón* | 💻 *Código limpio* | 🚀 *Aprendizaje continuo*
