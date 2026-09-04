@@ -29,7 +29,7 @@ const desarrollador = {
   ubicación: "Ecuador 🇪🇨",
   rol: "Desarrollador Frontend React",
   experiencia: "1+ años construyendo interfaces web modernas y accesibles",
-  aprendiendo: ["TypeScript", "Next.js"],
+  aprendiendo: ["TypeScript", "Next.js", "Rust", "Blockchain"],
   stack: ["React", "TailwindCSS", "Vite", "JavaScript"],
   intereses: ["☕ Café", "🎮 Videojuegos", "🎨 Diseño UI/UX"],
   lema: "Cada línea de código es una oportunidad para construir algo que deje huella."
